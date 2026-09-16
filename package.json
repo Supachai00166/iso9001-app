@@ -1,0 +1,15 @@
+{
+  "name": "iso9001-app",
+  "version": "1.0.0",
+  "description": "ISO 9001 quality activity logging app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
